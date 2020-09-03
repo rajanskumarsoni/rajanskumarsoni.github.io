@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
- Click to View My Up-to-date Curriculum Vitae [PDF] 
+ Click to View My Up-to-date Curriculum Vitae [PDF]http://rajanskumarsoni.github.io/files/ResumeRajan (Data Science).pdf 
