@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!--
+<p align="right">
+  <img src="https://rajanskumarsoni.github.io/files/img_20181030_134153.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
+</p>
+-->
 
 
 
