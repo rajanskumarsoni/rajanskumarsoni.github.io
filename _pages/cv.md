@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "CV"
+<!-- layout: archive -->
+title: "Rajan Kumar Soni"
 permalink: /cv/
 author_profile: true
 redirect_from:
