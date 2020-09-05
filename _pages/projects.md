@@ -11,18 +11,18 @@ author_profile: true
   
   **Machine Learning(Prof.Arun, IITM)**
      
-    * Implemented and analysed many ML algorithms:
+   * Implemented and analysed many ML algorithms:
 
-    * Data contest for predicting movie rating:  Task was to predict movie rating, given dataset we had to try different collaborative filtering like- Nearest Neihjbour model. Got best with  Modified latent factor model. With 73% accuracy, we achieved 11th rank on Kaggle.
+   * Data contest for predicting movie rating:  Task was to predict movie rating, given dataset we had to try different collaborative filtering like- Nearest Neihjbour model. Got best with  Modified latent factor model. With 73% accuracy, we achieved 11th rank on Kaggle.
 
 
    **Deep learning(Prof. Mithesh Khapra, IITM)**
 
-    * Compressed Representation of Data using Restricted Boltzmann Machine (RBM):  Trained RBM using Contrastive Divergence (CD) algorithm to learn an n-dimensional hidden representation of 784-dimensional binary Fashion MNIST image dataset. 
+   * Compressed Representation of Data using Restricted Boltzmann Machine (RBM):  Trained RBM using Contrastive Divergence (CD) algorithm to learn an n-dimensional hidden representation of 784-dimensional binary Fashion MNIST image dataset. 
 
-    * Text Transliteration using LSTM based Encoder-Decoder: Performed English to Hindi Transliteration by training a bidirectional LSTM Encoder and 2-layered Decoder with attention mechanism with 52% accuracy.
+   * Text Transliteration using LSTM based Encoder-Decoder: Performed English to Hindi Transliteration by training a bidirectional LSTM Encoder and 2-layered Decoder with attention mechanism with 52% accuracy.
 
-    * Image Classification using Convolutional Neural Network (CNN):  Built a CNN using TensorFlow and trained it on a subset of ImageNet dataset for the classification of the images.
+   * Image Classification using Convolutional Neural Network (CNN):  Built a CNN using TensorFlow and trained it on a subset of ImageNet dataset for the classification of the images.
 
    **Reinforcement Learning(Prof. Balaraman Ravindran, IITM)**
 
