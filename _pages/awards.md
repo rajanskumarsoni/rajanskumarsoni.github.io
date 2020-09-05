@@ -9,4 +9,4 @@ author_profile: true
 
    * Successfully solved Google Foo Bar Challenge up to Level-3.                 
 
-   * Attended CoDS-COMAD 2020 on 05 January, 2020 to Tuesday, 07 January, 2020 at Indian School of Business, Gachibowli, Hyderabad, Telangana, India.
+   * Attended CoDS-COMAD 2020 at Indian School of Business, Gachibowli, Hyderabad.  5th Jan’ -7th Jan’ 
