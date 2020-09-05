@@ -2,14 +2,14 @@
 main:
   - title: "CV/BIO"
     url: /cv/ 
-
+  
   - title: "Experience"
-    url: /experience/ 
+    url: /experience/
 
   - title: "Research"
-    url: /research/ 
-    
-   - title: "Publications"
+    url: /research/
+  
+  - title: "Publications"
     url: /publications/
     
   - title: "Talks"
@@ -17,6 +17,3 @@ main:
   
   - title: "Awards & Honors"
     url: /awards/
-    
- - title: "Blog Posts"
-    url: /year-archive/
