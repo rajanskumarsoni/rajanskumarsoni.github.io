@@ -3,7 +3,7 @@ main:
   - title: "CV/BIO"
     url: /cv/ 
 
-  - title:"Experience"
+  - title: "Experience"
     url: /experience/ 
 
   - title: "Research"
