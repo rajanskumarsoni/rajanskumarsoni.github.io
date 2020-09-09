@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
- [Click to View My Up-to-date Curriculum Vitae [PDF]](http://rajanskumarsoni.github.io/files/Rajan.pdf)
+ [Click to View My Up-to-date Curriculum Vitae [PDF]](http://rajanskumarsoni.github.io/files/LinkedInResume_rajan.pdf)
