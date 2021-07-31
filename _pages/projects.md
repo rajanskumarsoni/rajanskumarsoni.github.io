@@ -6,17 +6,16 @@ permalink: /projects/
 author_profile: true
 ---
     
-    
-  **Course projects** -
+
   
-  **Machine Learning(Prof.Arun, IITM)**
+  **Machine Learning**
      
    * Implemented and analysed many ML algorithms:
 
    * Data contest for predicting movie rating:  Task was to predict movie rating, given dataset we had to try different collaborative filtering like- Nearest Neihjbour model. Got best with  Modified latent factor model. With 73% accuracy, we achieved 11th rank on Kaggle.
 
 
-   **Deep learning(Prof. Mithesh Khapra, IITM)**
+   **Deep learning**
 
    * Compressed Representation of Data using Restricted Boltzmann Machine (RBM):  Trained RBM using Contrastive Divergence (CD) algorithm to learn an n-dimensional hidden representation of 784-dimensional binary Fashion MNIST image dataset. 
 
@@ -24,7 +23,7 @@ author_profile: true
 
    * Image Classification using Convolutional Neural Network (CNN):  Built a CNN using TensorFlow and trained it on a subset of ImageNet dataset for the classification of the images.
 
-   **Reinforcement Learning(Prof. Balaraman Ravindran, IITM)**
+   **Reinforcement Learning**
 
    * Bandits: Implemented and did the comparative analysis for the following bandit algorithms- Epsilon-greedy, soft-max, UCB1, Median.
 
