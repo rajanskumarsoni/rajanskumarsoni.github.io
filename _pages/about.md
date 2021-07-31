@@ -15,8 +15,9 @@ redirect_from:
 
 
 
+I am currently working in Oracle Financial Services Software as an Application Developer.
 
- I’m a graduate student at IIT Madras pursuing MS by research in Computer Science. I am working with Prof. Balaraman Ravindran 
+I completed my Masters By Research from IIT Madras in Computer Science and engineering under the supervision of Prof. Balaraman Ravindran.
 
 My research interests lie in the general area of machine learning, particularly in reinforcement learning and deep learning, as well as applying the concepts to solve real world problems in Finance, Healthcare, Automation and Human Capital Management.
 
