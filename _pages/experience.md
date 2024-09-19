@@ -6,7 +6,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-## Machine Learning Engineer | @Phenom People Pvt.Ltd, Hyderabad    July 2023 – present
+### Machine Learning Engineer | @Phenom People Pvt.Ltd, Hyderabad  | July 2023 – present
 * Developed a recommendation engine using collaborative filtering and Graph Neural Networks, boosting conversion
 by 50% with 2M daily requests, utilizing MLflow, AWS EventBridge, S3, SageMaker, and AWS Lambda. Deployed for
 400 clients, training the model daily using Kafka.
@@ -20,7 +20,7 @@ model by 10% in Mean Reciprocal Rank metric.
 by 30%.
 * Built sentiment and escalation prediction models for support tickets using (Large Language Model)LLM and Logistic
 Regression, reducing costs by 80%.
-## Lead AI Engineer | @ImagoAI Pvt.Ltd,Gurgaun Ã Nov 2022 – July 2023
+### Lead AI Engineer | @ImagoAI Pvt.Ltd,Gurgaun | Nov 2022 – July 2023
 * Worked on Hyperspectral images (small dataset, skewed target distribution, high dimensional) to predict corn
 mycotoxins, corn damage, corn particle size, and corn starch present in them using xgboost, classical Ml techniques,
 and variational autoencoder.Increased the revenue by 50%.
@@ -28,11 +28,11 @@ and variational autoencoder.Increased the revenue by 50%.
 * Managed a team of size 3 which includes assigning tasks and daily updates.
 * Built the MLOps pipeline using various tools and technologies, such as AWS S3, databases, APIs, DVC, Datapane,
 and MLflow.
-## Senior Data Scientist(III) | @Turtle shell technologies Pvt.Ltd(Dozee), Bangalore Ã May 2022 – Nov 2022
+### Senior Data Scientist(III) | @Turtle shell technologies Pvt.Ltd(Dozee), Bangalore | May 2022 – Nov 2022
 * Developed brain tumor detection model using image segmentation on MRI images with 95% accuracy.
 * Built blood pressure prediction system using state-of-the-art ML models,using graph neural network, XGBoost to
 capture the relation between different vital signs in BCG signals and deployed the model on the server.
 * Developed an early warning system where we generate alerts for different vitals using LSTM. Fine-tuned vitals
 threshold for alert firing using minimax optimization.
-## Application developer | @Oracle Financial Services Pvt. Ltd Ã july 2021 – May 2022
+### Application developer | @Oracle Financial Services Pvt. Ltd | july 2021 – May 2022
 * Created service extensions for the banking platform using Node.js, Java, and Embedded JavaScript templating.̱
