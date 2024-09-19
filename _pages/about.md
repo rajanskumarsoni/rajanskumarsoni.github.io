@@ -15,7 +15,7 @@ redirect_from:
 
 
 
-I am currently working in Oracle Financial Services Software as an Application Developer.
+I am currently working in Phenom People PVT. LTD as Machine Learning Engineer.
 
 I completed my Masters By Research from IIT Madras in Computer Science and engineering under the supervision of Prof. Balaraman Ravindran.
 
